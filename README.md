@@ -1,1 +1,1 @@
-MOVED TO <https://github.com/Spirals-Team/repairnator/tree/master/maven-repair>
+MOVED TO <https://github.com/eclipse/repairnator/tree/master/src/maven-repair>
